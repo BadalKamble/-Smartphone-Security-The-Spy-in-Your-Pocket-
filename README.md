@@ -82,3 +82,8 @@ Class: BCA TY, Div A, Roll No: 25735
 College: Dayanand College of Commerce, Latur (SRTMU)
 Email: kamblebadal25@gmail.com
 
+[📥 Download Full Presentation PDF](Smartphone%20Security.pdf)
+
+![Smartphone Security - The Spy in Your Pocket](Smartphone%20Security%20Screenshot.png)
+
+
