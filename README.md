@@ -1,4 +1,4 @@
-📱 Smartphone Security — "The Spy in Your Pocket"  📥 Download Full Presentation PDF
+📱 Smartphone Security — "The Spy in Your Pocket"  [📥 Download Full Presentation PDF](Smartphone%20Security.pdf)
 
 Cybersecurity Awareness Presentation | 10 Slides | Digital Threats · Privacy · Defense Strategies
 
